@@ -33,6 +33,3 @@ To analyze the sales data of Vishal Store and derive actionable insights to:
 - Focus marketing efforts on **women aged 30–49**.
 - Target high-performing states with promotions.
 - Use Amazon, Flipkart, and Myntra to run coupon and discount campaigns.
-
-## 📂 Project Structure
-
